@@ -1,0 +1,27 @@
+.Main_container2{
+    display: flex;
+    padding: 10px 70px 20px 70px;
+}
+.Main_container2_part2 img{
+    height: 900px;
+    width: 600px;
+}
+.Main_container2_part1{
+    padding: 200px 170px 0px 80px;
+}
+.line{
+    width: 35px;
+    height: 1px;
+    background-color: black;
+
+}
+.Main_container2_part1_Heading{
+    margin-top: 15px;
+    font-size: 27px;
+    font-weight: 700;
+}
+.Main_container2_part1 p{
+    font-size: 18px;
+    margin-top: 50px;
+    word-spacing: 6px;
+}    

@@ -1,0 +1,58 @@
+.Home5_Main_container{
+    background: url('https://static.wixstatic.com/media/c837a6_eb05560eb8764160936d511f9cb1af73~mv2.jpg/v1/fill/w_2344,h_2756,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/c837a6_eb05560eb8764160936d511f9cb1af73~mv2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px;
+    margin-top: 100px;
+    background-attachment: fixed;
+}
+.Home5_Main_container_Heading{
+    color: white;
+    font-size: 27px;
+    font-weight: 800;
+}
+.Home5_Main_container_Heading2{
+    color: orangered;
+    font-size: 40px;
+    font-weight: 600;
+    word-spacing: 10px;
+    margin-top: 20px;
+}
+.Home5_Main_container_Heading3{
+    color: white;
+    margin-top: 40px;
+    font-size: 20px;
+    word-spacing: 8px;
+
+    width: 400px;
+}
+.year{
+    display: flex;
+    width: 70%;
+    justify-content: space-around;
+    margin-top: 100px;
+    color: white;
+}
+.Year_container{
+    color: white;
+    font-size: 50px;
+    font-weight: 700;
+}
+.line_year{
+    height: 2px;
+    width: 50px;
+    margin-top: 20px;
+    background-color: white;
+}
+.RR{
+    color: white;
+    font-size: 23px;
+    word-spacing: 8px;
+    letter-spacing: 2px;
+    font-weight: 600;
+}
+.AA{
+    color: white;
+      word-spacing: 8px;
+    letter-spacing: 2px;
+}

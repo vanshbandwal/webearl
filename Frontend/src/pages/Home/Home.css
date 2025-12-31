@@ -1,0 +1,51 @@
+.Main_container_Home{
+    background: url('https://static.wixstatic.com/media/c837a6_ae4f4741c31844bfba715de2983231fdf000.jpg/v1/fill/w_980,h_1184,al_c,q_85,usm_0.33_1.00_0.00,enc_avif,quality_auto/c837a6_ae4f4741c31844bfba715de2983231fdf000.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-right: 100px;
+}
+.Container_Home{
+    color: white;
+    padding: 150px 0px 200px 170px;
+}
+.Container_Home_part1{
+    font-size: 110px;
+    font-weight: 700;
+    word-spacing: 8px;
+}
+.Container_Home_part2{
+    font-size: 35px;
+    margin-top: 20px;
+    word-spacing: 8px;
+    font-weight: 700;
+}
+.Container_Home_part3 {
+    display: flex;
+    gap: 20px;
+    padding-top: 40px;
+}
+.Container_Home_part3 button{
+    width: 200px;
+    height: 70px;
+    font-size: 16px;
+}
+.button1{
+    background-color: orangered;
+    border: 1px solid orangered;
+}
+.button1:hover{
+    background-color: black;
+    color: orangered;
+}
+.button2{
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    border: 1px solid white;
+    transition: all 0.5s ease ;
+}
+.button2:hover{
+    background-color: orangered;
+    border: 1px solid orangered;
+    color: black;
+}

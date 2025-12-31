@@ -1,0 +1,36 @@
+.Main_Home4_container2{
+    display: flex;
+    padding: 100px 70px 20px 0px;
+}
+.Main_Home4_container2_part2 img{
+    height: 1100px;
+    width: 650px;
+}
+.Main_Home4_container2_part1{
+    padding: 200px 170px 0px 100px;
+}
+.line{
+    width: 35px;
+    height: 1px;
+    background-color: black;
+
+}
+.Main_Home4_container2_part1_Heading{
+    margin-top: 15px;
+    font-size: 27px;
+    font-weight: 700;
+}
+.Main_Home4_container2_part1 p{
+    font-size: 18px;
+    margin-top: 50px;
+    word-spacing: 8px;
+    margin-right: 20px;
+    
+}    
+.Home4_img_container{
+    margin-top: 50px;
+}
+.Home4_img_container img{
+    height: 400px;
+    width:550px;
+}

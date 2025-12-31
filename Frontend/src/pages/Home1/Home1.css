@@ -1,0 +1,31 @@
+.Main_Container_Home1{
+    margin: 100px;
+}
+.Main_Container_Home1_part1{
+    font-size: 27px;
+}
+.Main_Container_Home1_part2{
+    display: flex;
+    justify-content: space-between;
+}
+.Main_Container_Home1_part2_part1{
+    color: orangered;
+    margin-top: 20px;
+    font-size: 40px;
+    font-weight: 700;
+    word-spacing: 8px;
+}
+.Main_Container_Home1_part2_part2 button{
+    background-color: orangered;
+    padding: 15px 35px;
+    font-size: 17px;
+    border: 1px solid orangered;
+    transition: all 0.5s ease;
+}
+.Main_Container_Home1_part2_part2 button:hover{
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+}
+
+

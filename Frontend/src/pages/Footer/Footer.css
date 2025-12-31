@@ -1,0 +1,27 @@
+.Footer{
+    padding-left: 150px;
+      padding-right: 150px;
+      font-size: 17px;
+}
+.Footer_head{
+    display: flex;
+    justify-content: space-between;
+}
+.Mcr{
+    font-size: 27px !important;
+    font-weight: 700;
+}
+.call-us-Footer{
+    background-color: orangered;
+    font-size: 16px !important;
+    padding: 13px 30px 13px 30px;
+    border: 1px solid orangered;
+    margin: 40px;
+}
+.one{
+    margin-top: 20px;
+}
+.Footer2{
+    margin-top: 100px;
+    padding-bottom: 100px;
+}

@@ -1,0 +1,73 @@
+.project {
+  width: 90%;
+  margin: auto;
+  margin-top: 100px;
+}
+.heading_Procject{
+    font-size: 25px;
+}
+.heading_Procject1{
+    padding-top: 20px;
+    color: orangered;
+    word-spacing: 8px;
+    letter-spacing: 2px;
+    font-size: 50px;
+    font-weight: 800;
+}
+.Project_para{
+    width: 450px;
+    word-spacing: 8px;
+  margin-top: 20px;
+}
+.slider-container {
+  position: relative;
+  margin-top: 30px;
+}
+
+.slider-window {
+  overflow: hidden;
+  width: 100%;
+}
+
+.slides {
+  display: flex;
+  transition: transform 0.5s ease;
+}
+
+.slide {
+  min-width: calc(100% / 3);
+  height: 600px;
+  padding: 10px;
+}
+
+.slide img {
+  width: 100%;
+  height: 600px;
+  object-fit: cover;
+  border-radius: 3px;
+}
+
+/* Arrows */
+.arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: black;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+  z-index: 10;
+}
+
+.arrow.left {
+  left: -10px;
+}
+
+.arrow.right {
+  right: -10px;
+}
+
+.arrow:hover {
+  background: #444;
+}
